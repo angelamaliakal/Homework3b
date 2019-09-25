@@ -2,70 +2,70 @@
 <?xml-stylesheet type="text/css" href="stylesheet.css"?>
 
 <setlist>
-<header>SETLIST SETLIST SETLIST SETLIST</header>
+<pageHeader>SETLIST SETLIST SETLIST SETLIST</pageHeader>
 
   <song>
-    <title>Glorious</title>
+    <songTitle>Glorious</songTitle>
     <artist>Macklemore (feat. Skylar Grey)</artist>
     <genre>Hip-Hop</genre>
     <releaseDate>2017</releaseDate>
   </song>
   <song>
-    <title>Marmalade</title>
+    <songTitle>Marmalade</songTitle>
     <artist>Macklemore (feat. Lil Yachty)</artist>
     <genre>Hip-Hop</genre>
     <releaseDate>2017</releaseDate>
   </song>
   <song>
-    <title>I Don't Belong In This Club</title>
+    <songTitle>I Don't Belong In This Club</songTitle>
     <artist>Macklemore</artist>
     <genre>Hip-Hop</genre>
     <releaseDate>2019</releaseDate>
   </song>
   <song>
-    <title>Corner Store</title>
+    <songTitle>Corner Store</songTitle>
     <artist>Macklemore (feat. Dave B and Travis Thompson)</artist>
     <genre>Hip-Hop</genre>
     <releaseDate>2017</releaseDate>
   </song>
   <song>
-    <title>These Days</title>
+    <songTitle>These Days</songTitle>
     <artist>Macklemore</artist>
     <genre>Hip-Hop</genre>
     <releaseDate>2019</releaseDate>
   </song>
   <song>
-    <title>Can't Hold Us</title>
+    <songTitle>Can't Hold Us</songTitle>
     <artist>Macklemore and Ryan Lewis (feat. Ray Dalton)</artist>
     <genre>Hip-Hop</genre>
     <releaseDate>2012</releaseDate>
   </song>
   <song>
-    <title>Thrift Shop</title>
+    <songTitle>Thrift Shop</songTitle>
     <artist>Mackelore and Ryan Lewis (feat. Wanz)</artist>
     <genre>Hip-Hop</genre>
     <releaseDate>2012</releaseDate>
   </song>
   <song>
-    <title>Need to Know</title>
+    <songTitle>Need to Know</songTitle>
     <artist>Macklemore and Ryan Lewis (feat. Chance the Rapper)</artist>
     <genre>Hip-Hop</genre>
     <releaseDate>2016</releaseDate>
   </song>
   <song>
-    <title>Good Old Days</title>
+    <songTitle>Good Old Days</songTitle>
     <artist>Mackelore (feat. Kesha)</artist>
     <genre>Hip-Hop</genre>
     <releaseDate>2017</releaseDate>
   </song>
   <song>
-    <title>Summer Days</title>
+    <songTitle>Summer Days</songTitle>
     <artist>Macklemore</artist>
     <genre>Hip-Hop</genre>
     <releaseDate>2019</releaseDate>
   </song>
   <song>
-    <title>Downtown</title>
+    <songTitle>Downtown</songTitle>
     <artist>Macklemore and Ryan Lewis</artist>
     <genre>Hip-Hop</genre>
     <releaseDate>2016</releaseDate>
