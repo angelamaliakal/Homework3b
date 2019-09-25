@@ -1,0 +1,13 @@
+setlist {
+  background-color:#1ebaba;
+  width: 100%;
+}
+
+song {
+  color: #175691;
+  font-size: 30px;
+}
+artist, title, genre, releaseDate {
+  color: #2b1791;
+  font-size: 18px;
+}
