@@ -1,4 +1,4 @@
-header {
+pageHeader {
   text-align: center;
   font-size: 40px;
   font-style: italic;
@@ -21,7 +21,7 @@ song {
   display:block;
 }
 
-title {
+songTitle {
   display:block;
   font-size: 25px;
   font-weight: bold;
